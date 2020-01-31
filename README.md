@@ -12,3 +12,5 @@ extern "C" {
 }
 ```
 and called to register the callback behaviour afterwards.
+
+The licence info can be seen for the nbc_minisat_all in the vendor folder.
