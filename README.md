@@ -1,4 +1,4 @@
-# rust_nbc
+# rust_nbc [![Build Status](https://travis-ci.com/gokberkkocak/rust_nbc.svg?branch=master)](https://travis-ci.com/gokberkkocak/rust_nbc)
 A Rust API for nbc_minisat_all Sat solver with alterations to expose fields and solutions.
 
 There is a solution callback added on the c backend. This solution handler can be accessed by
