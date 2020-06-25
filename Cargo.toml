@@ -9,4 +9,5 @@ bindgen = "0.52.0"
 cc = { version = "1.0.37", features = ["parallel"] } 
 
 [features]
+default=["generate-bindings"]
 generate-bindings = [] # feature has no explicit dependencies
